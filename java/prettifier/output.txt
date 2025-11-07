@@ -1,0 +1,25 @@
+1. 09 May 2022
+2. 07:18PM (-02:00)  🕒 Note: -02:00 means 2 hours behind standard time
+3. 02:54PM (+00:00)
+4. 03:30AM (+11:00)  🕒 Note: +11:00 means 11 hours ahead standard time
+5. 03:09AM (+00:00)
+6. 04:08 (+13:00)  🕒 Note: +13:00 means 13 hours ahead standard time
+7. 17:54 (+00:00)
+8. 15:29 (-11:00)  🕒 Note: -11:00 means 11 hours behind standard time
+9. 21:43 (+00:00)
+
+from Honiara International Airport to Hongyuan Airport
+
+from Honiara to Aba
+
+Your flight
+departs from *#CDG,
+and your destination is
+*##EIDW.
+Your flight departs from
+#NGS, and your destination
+is ##EDDH.
+
+Your flight departs from #HAJ, and your destination is ##EDDW.
+Your flight departs from *#HAJ, and your destination is *##EDDW.
+
